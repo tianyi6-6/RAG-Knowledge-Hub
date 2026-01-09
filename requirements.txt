@@ -1,0 +1,17 @@
+langchain==0.1.20
+langchain-community==0.0.38
+langchain-core==0.1.52
+openai==1.30.5
+faiss-cpu==1.13.2
+tiktoken==0.7.0
+fastapi==0.110.3
+uvicorn==0.29.0
+python-multipart==0.0.9
+streamlit==1.32.2
+pypdf==4.2.0
+python-docx==1.1.2
+markdown==3.6
+python-dotenv==1.0.1
+requests==2.32.3
+pytest==8.2.0
+pytest-cov==5.0.0
