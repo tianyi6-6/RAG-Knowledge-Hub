@@ -602,12 +602,4 @@ curl -X POST "http://localhost:8000/api/v1/qa" \
 
 ---
 
-**项目地址**：https://github.com/your-username/RAG-Knowledge-Hub
 
-**作者**：[您的名字]
-
-**许可证**：MIT License
-
----
-
-*本文首发于CSDN，转载请注明出处*
